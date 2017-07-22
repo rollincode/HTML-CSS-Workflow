@@ -1,0 +1,28 @@
+{
+  "name": "fanch-workflow",
+  "version": "1.0.0",
+  "description": "Worflow for simple HTML/CSS project",
+  "main": "index.js",
+  "author": "Fanch",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "latest",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "latest",
+    "gulp-filter": "^5.0.0",
+    "gulp-flatten": "^0.3.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-livereload": "^3.8.1",
+    "gulp-load-plugins": "latest",
+    "gulp-main-bower-files": "^1.6.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-uncss": "^1.0.6",
+    "gulp-wiredep": "^1.2.0",
+    "run-sequence": "^2.0.0"
+  }
+}
